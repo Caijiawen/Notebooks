@@ -4,4 +4,7 @@ caijiawen's experiment jupyter notebooks
 ## Contents
 
 
-Reinforcement Learning
+### Reinforcement Learning
+
+- Continous Control Project
+- Tennis Project
