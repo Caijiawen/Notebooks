@@ -1,6 +1,7 @@
 # Notebooks
-caijiawen's jupyter notebooks
+caijiawen's experiment jupyter notebooks
 
 ## Contents
 
-Continuous Control: PPO algorithm
+
+Reinforcement Learning
